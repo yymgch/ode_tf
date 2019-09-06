@@ -1,2 +1,2 @@
 # ode_tf
-examples of run ode by tensorflow
+examples of application of Tensorflow to dynamical system analysis
