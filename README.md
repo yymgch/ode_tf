@@ -1,2 +1,2 @@
 # ode_tf
-examples of application of Tensorflow to dynamical system analysis
+examples of dynamical system analysis by TensorFlow
